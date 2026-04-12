@@ -8,3 +8,6 @@ source venv_ubuntu/bin/activate
 
 
 Create google api key at https://aistudio.google.com
+
+
+setup billing
