@@ -38,7 +38,7 @@ Install Dependencies:
 
 Set Up the API Key:
 - Create a .env file in the project directory.
-- Add your Google API key: GOOGLE_API_KEY=your_api_key_here
+- Add your Google API key: GOOGLE_API_KEY=your_api_key_here (go to https://aistudio.google.com )
 - Ensure the .env file is loaded using python-dotenv (already included in app.py).
 
 Run the Application Locally:

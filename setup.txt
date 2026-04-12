@@ -5,3 +5,6 @@ python3 -m venv venv_ubuntu
 
 Activate it:
 source venv_ubuntu/bin/activate
+
+
+Create google api key at https://aistudio.google.com
