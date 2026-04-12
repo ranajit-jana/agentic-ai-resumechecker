@@ -1,0 +1,3 @@
+venv_ubuntu/
+chroma_store/*
+!chroma_store/.gitkeep

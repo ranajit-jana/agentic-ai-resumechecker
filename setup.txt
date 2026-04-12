@@ -1,0 +1,7 @@
+
+
+Create a Linux virtual environment:
+python3 -m venv venv_ubuntu
+
+Activate it:
+source venv_ubuntu/bin/activate
